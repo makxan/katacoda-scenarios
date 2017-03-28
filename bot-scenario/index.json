@@ -3,10 +3,10 @@
   "description": "Creating an app that will integrate with your bot.",
   "details": {
     "steps": [
-      { "title": "Title", "text": "step1.md" },
-      { "title": "Goes", "text": "step2.md" },
-      { "title": "Here", "text": "step3.md" },
-      { "title": "Here", "text": "step4.md" }
+      { "title": "Get to know the app", "text": "step1.md" },
+      { "title": "Communicate with Watson", "text": "step2.md" },
+      { "title": "Handle intents", "text": "step3.md" },
+      { "title": "Try your bot", "text": "step4.md" }
     ],
     "intro": {
       "text": "intro.md",
