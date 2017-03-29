@@ -1,3 +1,2 @@
-git clone https://github.com/makxan/bot-workshop.git
-cd bot-workshop
+git clone https://github.com/makxan/bot-workshop.git .
 npm install
